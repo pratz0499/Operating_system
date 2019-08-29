@@ -58,7 +58,7 @@ int main()
 
 	double avg_wt=printf("%lf\n",wt_sum/n);
 	double avg_tat=printf("%lf\n",tat_sum/n);
-
+   return 0;
 	
 }
 	
